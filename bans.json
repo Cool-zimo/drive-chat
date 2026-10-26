@@ -1,11 +1,3 @@
 {
-  "bans": [
-    {
-      "user": "test-abuser",
-      "reason": "测试：聊天室反复人身攻击",
-      "days": 3,
-      "by": "cool-zimo",
-      "at": "2026-10-26"
-    }
-  ]
+  "bans": []
 }
